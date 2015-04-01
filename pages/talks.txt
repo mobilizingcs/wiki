@@ -1,0 +1,24 @@
+=== 2014 ===
+*
+**Mobile Data Collection using the Ohmage Platform for Instruction**, Hongsuda Tangmunarunkit, MMWCOND 2014, Sep 2014
+
+[[http://web.ohmage.org/~hongsudt/slides/Mobilize_mmwcon_2014_HT.pdf|pdf]], [[http://web.ohmage.org/~hongsudt/slides/Mobilize_mmwcon_2014_HT.pptx|pptx]]
+
+//abstract:// Participatory Sensing (PS) is a distributed data collection and analysis approach where individuals, acting alone or in groups, use their personal mobile devices t
+o systematically explore interesting aspects of their lives and communities. Ohmage (http://ohmage.org) is a modular and extensible open-source, mobile to web part
+icipatory sensing platform that records, stores, analyzes, and visualizes data from both prompted self-report and continuous data streams. These data streams are a
+uthorable and can be dynamically deployed in diverse settings. Ohmage has been used as an enabling platform in over 20 independent projects in many disciplines. In
+ this talk, we present the ohmage architecture and how it has been applied to provide an innovative teaching and learning environment for LA Unified School Distric
+t under the NSF-funded Mobilize Project (mobilizingcs.org). 
+
+* 
+** Analyzing Data:  Preparing Teachers to Implement Classroom Software for Data Analysis **, Robert Gould, NSF MSP Meeting, 2014
+
+//abstract:// Mobilize is an NSF-funded project that is using the vehicle of Participatory Sensing to enhance secondary math and science education.  This year Mobilize launched the Introduction to Data Science (IDS) course, a year-long course to teach fundamental skills and understandings required for computing with data and thinking constructively about data.  The Guidelines for Assessment and Instruction in Statistics Education (GAISE) ratified by the American Statistical Association emphasize that students must learn to use technology to analyze data.  In that spirit, we are preparing teachers to teach their students 1) participatory sensing technologies, to create and design their data collection projects and to collect data, and 2) Rstudio, a web-based environment for learning the R statistical programming language in order to discover meaning in  data. Although we have only recently launched the IDS course and so have held only 6 days of professional development workshops, these workshops were based on what we learned in previous efforts while preparing over 150 teachers to teach shorter technology and data focused modules within Exploring Computer Science, Algebra I, and Biology. Mobilize implements the Science Immersion Model for Professional Learning (SIMPL), blended with active, hands-on learning to develop conceptual understanding of statistical and computational principles.  
+
+=== 2013 ===
+* 
+** Mobile Data Collection for Research Pilots, in-class Field Work and as a Public Health Challenge **, Rose Rocchio, Hongsuda Tangmunarunkit, mmwcon 2013, Sep 2013
+
+//abstract:// This session will introduce how UCLA is exploring Mobile Data Collection using the ohmage platform and ohmage MWF clients with a series of pilots deploying this technology in instructional curricula, wellness incentive and challenge programs and research studies. The session will discuss the UCLA and Cornell Tech NYC ongoing collaboration around the platform, and the expansion into a broader open technology community. In addition we will share the instructional deployment of the Mobilize Project at LAUSD, which leverages ohmage, in addition to what OIT is supporting ohmage for classwork field studies at UCLA. The Bruin Break Wellness Dashboard project will be described and additional pilots will be described
+

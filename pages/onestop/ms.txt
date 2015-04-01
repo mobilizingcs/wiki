@@ -1,0 +1,160 @@
+**The following page is under construction. **
+===== Math - Mobilize ONESTOP =====
+This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://wiki.mobilizingcs.org/curriculum]]. All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
+
+
+==== Step 1 (Week+ before starting unit) - Handling Consent Forms or Information Sheets ====
+  * **Teachers implementing in multiple class periods should select ONE class period as their "evaluation class"** or class that completed the questionnaires.  Please try to select a "typical class" (i.e., not honors class), preferably Alg. 1.
+  * Classes will either be in a BLUE group or a GOLD group. 
+  * BLUE GROUP:  Please make sure to give students the Student Information Sheet to read through and the Parent Information Sheets to share with their parents.
+  * GOLD GROUP: Please give students the Mobilize Consent Form Packet (student consent form, parent consent form) to complete. The consent forms are needed to  help us measure and improve the effectiveness of the Mobilize units. Bring back completed forms to the **September 13 PD** (It is OK to bring in any additional signed forms to the October PD).
+  * Please feel free to contact us at support@mobilizingcs.org with any questions or concerns.
+  * THANK YOU!
+
+// ** __Consent Forms:__** //
+  * Parent Information Sheet  ({{: onestop:blue_parent_infosheet_english_2014-15.pdf
+|English}}, {{: onestop:blue_parent_infosheet_spanish_2014-15.pdf
+|Spanish}})
+  * Student Information Sheet  ({{: onestop:blue_student_infosheet_english_2014-15.pdf|English}})
+  * Parent Consent Form  ({{:onestop:gold_parent_consentform_english_2014-15.pdf|English}}, {{:onestop:gold_parent_consentform_spanish_2014-15.pdf|Spanish}})
+  * Student Consent Form  ({{: onestop:gold_student_consentform_english_2014-15.pdf|English}})
+
+==== Step 2 (Week+ before starting unit) - Check software; Create classes and accounts ==== 
+  * {{:wiki:computer-3.png?nolink&20}} Teachers make sure that they and their students will have access a computer lab that satisfies the [[https://wiki.mobilizingcs.org/requirements|minimum software requirements]]. 
+  * To prevent a blank screen issue due to the LAUSD firewall, please follow [[http://www.lausd.k12.ca.us/lausd/help_files/cert_filter.htm| the LAUSD instructions for installing their root certificate]] on your and your students' browsers. 
+  * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Each Mobilize teacher creates their own classes and student accounts by following [[https://wiki.mobilizingcs.org/app/web/teacher|the Mobilize Class Setup Process]]. For the upcoming deployment, we will execute this step during the PD on Sep 7, 2013. 
+
+
+==== Step 3 (Day 0) - Students Take the "Pre-Q" ====
+  * {{:wiki:document-edit.png?nolink&20|}} Teachers administer the student pre-questionnaire (or "Pre-Q") BEFORE beginning the unit. 
+  * The Pre-Q includes a series of algebra and data-related tasks and should take approximately 30 minutes (1 class period including directions, passing out Pre-Q's, etc.) to complete.  The gold group questionnaire is slightly longer.  
+  * Teachers will also be asked to complete a short pre-survey before starting the unit.  You will receive a link via email. 
+  * Contact Debbie La Torre Matrundola at 310.206.1385 or support@mobilizingcs.org  if you have any questions or concerns. 
+
+// ** __Target Story__** //
+When your students have completed the "Pre-Q" you will have time to present the Target Story; a brief video discussing data collection practices by large corporations. (Time: 4.5 minutes) When the video ends, ask students, "How did Target know she was pregnant?" Discuss first as teams and have each team share out.
+
+Watch the video [[http://youtu.be/XvSA-6BJkx4|HERE.]]
+
+Download the video [[https://www.dropbox.com/s/biljnp1tikptu63/Target%20Story.mp4?dl=0 | HERE.]]
+==== Step 4 (Day 1) - Implement Lesson 1: Life with Big Data ====
+This inquiry lesson will engage students’ thinking about the types and quantity of data that is being generated through social networks and  on-line applications. Students will investigate: What is data? How is it used? Where does it come from? and What are the effects of data on their lives now and in the future.
+  * Idea Brainstorm:  What is data? How is it used? Where does it come from? How can data affect my life now and in the future?
+  * Video: Hunting for Cool:  See data collection activities in real world settings.
+  * Homework: In your Math Journals complete your two-paragraph summary of your learning today.
+
+// ** __Lesson 1 Resources__** //
+  * Download the Lesson 1 PowerPoint presentation:{{https://www.dropbox.com/s/ye6h146nvcffej4/Lesson%201_Life%20with%20Big%20Data%20V5.22.14.pptx?dl=0 |Big Data in Our Lives}} 
+  * Download Video: {{https://www.dropbox.com/s/dvizbfqar7yhpjm/Lesson%201.%20Hunting%20For%20Cool.mp4?dl=0|Hunting for Cool}}
+  * Download {{https://www.dropbox.com/sh/1qqxtltvccr96vs/AAAXNDw9rNsqQWtiTjzBDuSRa?dl=0 |Lesson 1 Student Handouts:}} 
+      * HO1 The Data Four-Fold organizer
+      * HO2 Video Notes Organizer 
+  * Student Math Journal
+==== Step 5 (Day 2-3) - Implement Lesson 2: What can data say about our snacking? ====
+  * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Distribute user names and passwords. To obtain user names and passwords, login to the Mobilize teacher tool at [[https://lausd.mobilizingcs.org/teacher]], select an appropriate class, then click on the "print" button.
+  * {{:wiki:logo.png?nolink&25|}} Have students downloaded the Mobilize data collection app from the following locations: 
+    * // ** __Google Play Store:__** // 
+      * Search for "UCLA MobilizingCS" app or download from [https://play.google.com/store/apps/details?id=org.ohmage.mobilizingcs]
+      * [optional] Search for "SystemSens" app or download from [https://play.google.com/store/apps/details?id=edu.ucla.cens.systemsens&hl=en]
+    * // ** __iOS App Store:__** //  
+      * Search for "UCLA MobilizingCS" app or download from [https://itunes.apple.com/us/app/mobilize-mwf/id601202066?mt=8]
+    * // ** __Web-Based Application:__** //
+    * For students that do not have smartphones, go to the Mobilize web-based application at [[https://lausd.mobilizingcs.org/survey]] to collect data. 
+
+  * Watch [[https://wiki.mobilizingcs.org/home?&#available_video_tutorials|Mobilize tutorials]] on data collection. 
+  * Navigate the Mobilize data collection app and practice using the app.
+  * Discuss research question, photo ethics and student safety related to phone/device use. 
+  * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.   
+
+// ** __Lesson 2 Resources__** //
+  * Download the Lesson 2 PowerPoint presentation: {{https://www.dropbox.com/s/pzpo5u37u2lexcn/Lesson%202%20Mobilize%20App%20%28V9.7.14%29.ppt?dl=0|Mobilize App (V5.22.14) }} 
+  * Student Cell Phones, iPads, or iPods
+  * Student Math Journal
+  * Download {{https://www.dropbox.com/sh/ml3bjt1qk7d7unq/AAA015hldiVn_PkSLixsBUwIa?dl=0|Lesson 2 Student Handouts}} 
+      * Fruit Nutritional Facts
+      * HO1 Teen Goals Survey
+      * HO2 Mobilize App Instruction Sheet
+==== Step 6 (Day 4) - Implement Lesson 3: What’s Math Got to Do With Data? ====
+  * Students will create expressions and equations to better quantify and give values to their snack predictions and questions that they charted about their snack data in Lesson 2. 
+  * They will also learn how to analyze data in graphs and other visualizations using mathematical expression to explain similarities and differences, i.e. 13% more students reported eating very healthy than those that reported eating somewhat healthy.
+
+// ** __Campaign Monitoring Tool__** //
+  * Go to the{{https://lausd.mobilizingcs.org/landing |Mobilize Landing page}} and select the Campaign Monitoring Tool.
+  * At the start of the lesson share current data collection status with students
+  * Remind students to continue collecting data
+
+// ** __Lesson 3 Resources__** //
+  * Download PowerPoint presentation: {{https://www.dropbox.com/s/lhjtbb2rdhlz71x/Lesson%203_What%27s%20Math%20Got%20to%20do%20with%20Data%20%28V9.7.14%29.ppt?dl=0|What’s Math Got to Do With Data?}} 
+  * Student Prediction charts: Information recorded during lesson 2 
+  * Student Math Journals 
+==== Step 7 (Day 5) - Implement Lesson 4: What Does my Snack Data Tell Me about my Nutrition? ====
+  * Students will learn to explain similarities and differences in their data by making statements of comparison, such as 
+    * “53% of my snacks were eaten at home, and 40% of those were eaten alone.”  
+  * Students will learn the format required to create expressions and equations to represent their snacking habits.  They will understand the importance of defining the variables needed to translate their findings into equations. 
+
+
+// ** __Lesson 4 Resources__** //
+  * Download PowerPoint presentation {{https://www.dropbox.com/s/5jqjhco17k12ko4/Lesson%204%20%20What%20Does%20my%20Snack%20Data%20Tell%20Me%3F%20%28V9.8.14%29.ppt?dl=0|What Does my Snack Data Tell Me?}} 
+  * Student Prediction charts: Information recorded during lesson 2	
+  * Mobilize Dashboard URL and Student login information 
+  * Download Student Handout 1:{{https://www.dropbox.com/sh/zlksgbqxmwxr530/AAAxEYpL4-lDbDmLjoMrevZ_a?dl=0|Analyzing Snack Dashboard Graphic Organizer}}
+  * Student Math Journals
+
+ 
+==== Step 8 (Day 6) - Implement Lesson 5: Is my Snacking Healthy? ====
+  * In this lesson, students will determine how their perceived healthiness correspond to reality. 
+  * Students will consider the questions: “What does my data tell me about nutrition?” and “What is healthy nutrition?” 
+  * In expert groups, students will read articles on health and nutrition for teens and will justify or refine their initial ideas about nutrition and health.  
+
+// ** __Lesson 5 Resources__** //
+  * Download PowerPoint presentation {{https://www.dropbox.com/s/vqrxm3kt48ihjtb/Lesson%205_Is%20my%20Snacking%20Healthy%3F%20%28V9.8.14%29.pptx?dl=0|Is my Snacking Healthy?}} 
+  * Computers for each students 
+  * Mobilize Dashboard URL and Student login information
+  * Download{{https://www.dropbox.com/sh/ahhvl5yy2io4xw1/AAB0SfeN27mhFegX15d9sb_Xa?dl=0|Lesson 5 Student Handouts}} 
+     * Nutrition Information handout
+     * Toolkit 1-5 Articles 
+  * Student Math JournalsComputers for each students
+==== Step 9 (Day 7-8) - Implement Lesson 6: Designing a Nutrition Campaign ====
+  * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Analyze students’ data collected using the Mobilize data collection app to determine “Which nutritional component has the greatest impact on increase in calories?” 
+  * Students log in to the Mobilize web frontend at [[https://lausd.mobilizingcs.org/web]]. Click on "Explore Data" tab to access various plots.  
+
+// ** __Lesson 6 Resources__** //
+  * Download PowerPoint presentation {{https://www.dropbox.com/s/l084ym0qm0lmcqv/Lesson%206_Designing%20a%20Nutrition%20Campaign%20%28V9.8.14%29.pptx?dl=0|Designing a Nutrition Campaign}} 
+  * Computers for each students 
+  * Mobilize Dashboard URL and Student login information
+  * Download{{https://www.dropbox.com/sh/84088n4x6e6se5v/AAAj731YQpDmlGEgNox7JHbWa?dl=0|Lesson 6 Student Handouts}} 
+     * Data Cycle Information handout 
+     * Campaign Creation Graphic Organizer  
+     * Oral Presentation Evaluation Form
+     * Student Handout : Peer Evaluation Rubric
+  * Student Math JournalsComputers for each students
+==== - Please Uploading the Final Projects to the Web Front End ==== 
+  * Please take a picture of all Students posters.
+  * Follow the instructions in Step 10 upload the pictures.
+
+==== Step 10 (Post Lessons) - Upload students' projects ====
+  * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Login to the Mobilize web frontend at [[https://lausd.mobilizingcs.org/web]], then click on the "Document" tab to upload students projects:
+    * Click "Upload Documents"
+    * Click "Choose File" and select the file from your local system
+      * If you'd like to test the functionality, {{:onestop:blue_parent_info_sheet_approved_09.05.13.pdf|here's a sample file to use}}
+    * Click "Add Classes" and select one of your classes
+    * Click "save" to finish upload.
+
+==== Step 11 (Post Lessons) - Nutrition Campaign ====
+Students will now download the Nutrition Campaign that has been developed to align with the ideas they generated during Lesson 6 while designing a new campaign. Have students download the campaign and collect data for several weeks, until the start of the Mobilize Math Unit 2.
+  * // ** __ User Names and Passwords__** // 
+  * Students should all be familiar with their user names and passwords, but ensure that all students have their login information.
+  *  Login to the Mobilize teacher tool at [[https://lausd.mobilizingcs.org/teacher]], select an appropriate class, to reset passwords if necessary.
+  * {{:wiki:logo.png?nolink&25|}} Have students downloaded the Mobilize data collection app from the following locations: 
+    * // ** __Google Play Store:__** // 
+      * Search for "UCLA MobilizingCS" app or download from [https://play.google.com/store/search?q=mobilizingcs]
+      * [optional] Search for "SystemSens" app or download from [https://play.google.com/store/apps/details?id=edu.ucla.cens.systemsens&hl=en]
+    * // ** __iOS App Store:__** //  
+      * Search for "UCLA MobilizingCS" app or download from [https://itunes.apple.com/us/app/mobilize-mwf/id601202066?mt=8]
+    * // ** __Web-Based Application:__** //
+    * For students that do not have smartphones, go to the Mobilize web-based application at [[https://lausd.mobilizingcs.org/survey]] to collect data. 
+
+  * Watch [[https://wiki.mobilizingcs.org/home?&#available_video_tutorials|Mobilize tutorials]] on data collection. 
+  * Navigate the Mobilize data collection app and practice using the app.
+  * Discuss research question, photo ethics and student safety related to phone/device use. 
+  * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.   

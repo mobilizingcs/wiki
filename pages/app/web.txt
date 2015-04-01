@@ -1,0 +1,21 @@
+===== Mobilize Web Frontend =====
+The web frontend (powered by the [[http://www.ohmage.org|ohmage]] project) is used to provide students secure access to their data. It supports secure login, campaign management, data management and basic campaign monitoring and visualization. The students can review and share their data to the growing data set collected by their class. The web frontend can also be used to discover the answers to basic statistical inferences in real-time as data is being collected. When data collection is complete, the web frontend allows for easy exporting of the data to a more thorough [[:rstudio|statistical analysis]] tool.
+
+==== Detailed Walkthrough ====
+  * [[:app/:web/:home|Home]]
+  * [[:app/:web/:campaigns|Campaigns]]
+  * [[:app:web:responses|Responses]]
+  * [[:app/:web/:exploredata|Explore Data]]
+  * [[:app/:web/:classes|Classes]]
+  * [[:app/:web/:documents|Documents]]
+  * [[:app/:web/:account|My Account]]
+  * [[:app:web:surveys|Taking Surveys]]
+
+==== Other Help ====
+  * [[:app/:web/:usertypes|Types of users]]
+  * [[:app/:web/:campaignstates|Campaign States]]
+  * [[:app/:web/:faq|FAQ]]
+
+==== Video Tutorials ====
+If you'd prefer a video tutorial of many of these features, please visit this link: 
+  * [[http://youtu.be/ZlH-32fQ0ns|Mobilize Web Frontend]] [[http://www.teachertube.com/viewVideo.php?video_id=285082|teachertube link]]

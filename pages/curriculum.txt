@@ -1,0 +1,43 @@
+===== Download the Curriculum =====
+
+Mobilize curriculum materials for Mathematics, Science, and Mobilize Prime are listed below: 
+
+==== Mobilize Science Unit & Supplemental Materials ====
+
+  * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] All materials you'll need to implement the Mobilize Science curriculum can be found here. The link will take you to the general directory for all Mobilize curricula. Just click on the folder marked "MZ Curriculum_Science" to find current versions of the Mobilize Science Unit, PowerPoints, Student Handouts, PSA Exemplars (also below), and Additional Teacher Resources. 
+
+  * PSA Exemplars
+    * <html><a href="https://goanimate.com/videos/0WnnIwceZunI?utm_source=embed" target="_blank">Mobilize Trash Exemplars</a> by <a href="https://goanimate.com/user/06Z8UoDwMioQ" target="_blank">joyrperez</a> on <a href='https://goanimate.com?utm_source=embed' target="_blank">GoAnimate</a><br/><iframe scrolling="no" allowTransparency="true" frameborder="0" width="400" height="258" src="https://goanimate.com/player/embed/0WnnIwceZunI"></iframe></html>
+    * {{https://drive.google.com/file/d/0B61CN5_CIXNJNjRsYWVrRmhuNUE/edit?usp=sharing|Video 2}}
+    * {{https://drive.google.com/file/d/0B61CN5_CIXNJM1FxaTZsSkRackE/edit?usp=sharing|Video 3}}
+
+---------------
+
+==== Mobilize Math Unit & Supplemental Materials ====  
+
+  * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] The Mobilize Mathematics curriculum is now available! The link will take you to the general directory for all Mobilize curricula.  Just click on the folder marked "MZ Curriculum_Math" to find current Mobilize Units 1 & 2, Lesson PowerPoints, Student Handouts, and Teacher Resources.
+     
+  //External References//
+  * Guidelines for Assessment and Instruction in Statistics Education (GAISE) Report : [[http://www.amstat.org/education/gaise/GAISEPreK12_Intro.pdf]]. This document illustrates key concepts and the problem-solving process of statistical reasoning that are based on real data and real-world contexts.
+
+---------------
+
+==== Mobilize Prime ====
+  * {{http://www.exploringcs.org/wp-content/uploads/2010/08/ExploringComputerScience-v5.0.pdf| ECS Unit 5: Computing and Data Analysis (page 191-262)}}
+  * {{:curriculum:mzp_focus_sheets_final_10.09.13.pdf| MZ Prime Focus Sheets}}
+  * {{:curriculum:mzp_ps_supplement_final_10.09.13.pdf|MZ Prime PS Supplement}}
+  * {{:curriculum:mzp_xml_supplement_final_10.09.13.pdf|MZ Prime XML Supplement}}
+  * {{:xml_supplement_resources.zip|MZ Prime XML Supplement Resources}}
+  * {{:ps_supplement_resources.zip|MZ Prime PS Supplement Resources}}
+
+--------------
+
+==== IDS ====
+  * {{https://www.dropbox.com/sh/2j6e7taf3oqt7g2/AADcE9d3f9NuNoJl30a9ZZqFa|Curriculum materials}}
+
+--------------
+
+
+==== Professional Development Materials ====
+
+Professional Development Material can be found at [[http://wiki.mobilizingcs.org/pd]].

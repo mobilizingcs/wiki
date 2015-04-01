@@ -1,0 +1,82 @@
+===== Mobilize Class Setup Process =====
+The instructions below are a step-by-step process Mobilize teachers will use to generate classes and accounts for their students.
+
+  * [[#Step_0gather_account_info|Step 0: Gather Account Info]]---Obtain a Mobilize account and a LAUSD ISIS account information. If you are not a Mobilize teacher, please sign in to participate in the Mobilize project. 
+  * [[#Step_1accept_mobilize_account_policy|Step 1: Accept Mobilize Account Policy]]---Sign on to [[https://lausd.mobilizingcs.org/policy|Mobilize account policy]] and accept the account policy. This is required for teachers to gain access to teacher privilege. 
+  * [[#Step_2download_roster_from_misis|Step 2: Download Roster From mISIS]]---Sign on to [[https://misis.lausd.net/start/Login.aspx|the LAUSD mISIS system]] to export a class roster---the //Five/Ten Column Class Worksheet//---in the csv format.
+  * [[#Step_3upload_roster|Step 3: Upload Roster]]---Sign on to [[https://lausd.mobilizingcs.org/teacher|the Mobilize Class Setup]] to create your classes and upload the appropriate class roster files to corresponding classes.
+  * [[#Step_4update_roster|Step 4: Update Roster (optional)]]---When your class rosters change, repeat Step 2 and 3 to update your class rosters in the Mobilize system.
+  * [[#Step_5reset_students_passwords|Step 5: Reset Students Passwords]]---Students are required to change their initial passwords upon first login by logging in to [[https://lausd.mobilizingcs.org/web|the Mobilize Web Frontend]] or the Mobilize data collection tools on their phones. [[https://lausd.mobilizingcs.org/teacher|The Mobilize Class Setup]] also provides a mechanism for teachers to reset students passwords after their initial passwords have been changed.   
+
+The detailed description of each step including screen shots are provided below: 
+
+==== Step 0: Gather Account Info! ====
+To make it through this process you'll need your account info for LAUSD mISIS, as well as your Mobilize account (looks like lausd-00000). If you are not a Mobilize teacher, please sign in to participate in the Mobilize project. If you are a Mobilize teacher but do not yet have a Mobilize account, you'll need to contact [[:contact|Mobilize Support]].
+
+==== Step 1: Accept Mobilize Account Policy ====
+Before you can create classes and student accounts, you'll need to read and accept the extended account policy that comes along with the added responsibility of these account privileges.
+  * Visit https://lausd.mobilizingcs.org/policy
+  * Log in with your Mobilize account (looks like lausd-00000).
+  * Read all items and click "I accept." to confirm your understanding.
+  * **Note that it can take up to 15 minutes for your account to be given the teacher privilege.**
+{{ :app:web:teacher_tool10.png?direct&700 |}}
+
+
+==== Step 2: Download Roster from mISIS ====
+You'll need to download your rosters in CSV (comma-separated value) format from mISIS.  Below are detailed instructions (and screenshots) to help!
+  * Visit http://https://misis.lausd.net/start/Login.aspx and log in using your LAUSD credentials.
+  * Click the "Reports" tab.
+{{ :app:web:misis01.png?direct&700 |}}
+  * On the left, click "Class Roster Five Columns".
+{{ :app:web:misis02.png?direct&700 |}}
+  * Select your Educational Service Center (XP in the example)
+{{ :app:web:misis03.png?direct&700 |}}
+  * Select the period you are creating a class for (BE SURE TO SELECT ONLY ONE PERIOD PER EXPORT).
+{{ :app:web:misis04.png?direct&700 |}}
+  * Click "View Report."
+{{ :app:web:misis05.png?direct&700 |}}
+  * You may or may not see your class list show up below, but when the report is finished, you will see a new menu bar, with a "save button" to click.
+{{ :app:web:misis06.png?direct&700 |}} 
+  * After clicking the save button, choose CSV as the export option. The file will now be downloaded!
+{{ :app:web:misis07.png?direct&700 |}}
+
+==== Step 3: Upload Roster====
+Finding your downloaded roster will be slightly different depending on your browser, and computer operating system.  You may want to locate this file in your Downloads folder, on your Desktop or other custom location before starting this process (Caution: don't attempt to open or edit the csv file, as you may inadvertently change the format).
+  * Visit https://lausd.mobilizingcs.org/teacher
+  * Log in with your Mobilize account (looks like lausd-00000). This is what you see after you login. 
+{{ :app:web:teacher_tool11.png?direct&700 |}}
+  * Scroll to "Create New Class."
+  * Select your class semester, period and subject.
+  * Click "create."
+{{ :app:web:teacher_tool12.png?direct&700 |}}
+  * Your class list will be updated and the new class will be highlighted, click "Select" next to this class.
+{{ :app:web:teacher_tool13.png?direct&700 |}}
+  * Under "Upload Roster" click the "Choose file" button and browse to your downloaded class roster (in the example, the file is named RPT_AT0068.CSV)
+{{ :app:web:teacher_tool14.png?direct&700 |}}
+{{ :app:web:teacher_tool15.png?direct&700 |}} 
+  * You will see a status message showing that your students have been uploaded.
+{{ :app:web:teacher_tool16.png?direct&700 |}} 
+
+==== Step 4: Updating Roster ====
+We understand that the first roster you upload may not be complete (or may contain students who have since dropped from your class).  Because of this, we've made it possible for you to very easily make changes to your roster.
+  * Repeat step 2 above to downloaded the latest version of your roster from ISIS.
+  * Visit https://lausd.mobilizingcs.org/teacher
+  * Log in with your Mobilize account (looks like lausd-00000).
+  * Click "Select" next to the class you'd like to update.
+  * Under "Upload Roster" click the "Choose file" button and browse to your downloaded class roster.
+  * After your roster uploads, there will be a descriptive status informing you of changes: 1- any new students who have been added (highlighted in green) and 2- any students who were not found in the roster, that you may choose to delete (highlighted in red).
+
+==== Step 5: Reset students passwords ====
+When an account is first created, there is an initial password assigned to each account. Each student is required to change his/her password upon first login to the password of his/her choice. Students can change their initial passwords by logging in to the [[https://lausd.mobilizingcs.org/web|Mobilize main frontend]] or the Mobilize data collection tools on their phones. 
+
+In a rare occasion when students forget their passwords after their initial passwords have been changed, teachers can login to [[https://lausd.mobilizingcs.org/teacher| the Mobilize teacher tool]] to reset students' passwords.  
+
+==== FAQs ====
+  * Q. Can I change a student's password if they've forgotten it?
+  * A. Yes! Just find their name in your class list and click "Change Password".
+ 
+  * Q. Next to my student's account it lists <changed> under password. What does this mean?
+  * A. This means the student's password has been changed from the initial password. You are still able to change it if necessary.
+
+  * Q. Something doesn't seem to be working on this page. Is my browser supported?
+  * A. Please refer to the "Mobilize Web" section on our [[:requirements#mobilize_web_browser_requirements|minimum requirements]] page. 

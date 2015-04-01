@@ -1,0 +1,29 @@
+**This page is currently under construction! **
+
+Resources related to the past Mobilize professional developments are provided below: 
+
+====Math and Science====
+  * Summer PD (06/9/14-06/12/14)
+    * **[[http://web.ohmage.org/mobilize/resources/all/gotdata/index.html|Got Data?]]**: This animation shows the number of births that occured for each day in 1978 in the United States.
+      * Plot detail 
+        * The x-axis is the day of the year.
+        * Day 1 is January 1st and day 365 is December 31st.
+        * The y-axis is the number of births that occured.
+      * The animation continuously adds an additional day, chosen at random, to the plot.
+        * How many births does it take before you start to see a trend in the data?
+        * How does what you believe the data to be showing change as more days are added?
+  * LA National Historical Museum (Science PD on 2/8/2014)
+    * [[http://web.ohmage.org/mobilize/pd/ms2013_14/TrashCampPresExt_020814.html|Analyzing Trash Data with Trashboard]] 
+
+====Mobilize Prime====
+  * The Prime Content 
+    * [[http://web.ohmage.org/mobilize/pd/mzp2013_14/XML_Supplement_PD_102613.pptx|XML Supplement]] (MZP PD 10/26/2013) 
+    * [[http://web.ohmage.org/mobilize/resources/mzp/DataSet_QuestionAnswerCode_V2.docx|MZP Data Set Question and Answer Code]] (MZP PD 10/26/2013) 
+  * Campaign creation
+    * [[http://web.ohmage.org/mobilize/pd/mzp2013_14/CampaignCreation_MZP_PD_2013.pptx|How to create your own campaign]] (MZP PD on 10/26/2013)
+  * Data Analysis and visualization 
+    * [[http://web.ohmage.org/mobilize/slides/DataAnalysisToolChest.html|Exploring our data analysis tool chest (i.e. Interactive Dashboard, the Frontend Explore Data Tab]] 
+    * [[http://web.ohmage.org/mobilize/pd/mzp2013_14/ECS_PD_1_17_2014.html|Rstudio Data Analysis Exercise]] (MZP PD on 01/17/2014)
+ 
+ 
+

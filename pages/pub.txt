@@ -1,0 +1,5 @@
+=== Publications ===
+  * H. Tangmunarunkit, C.K. Hsieh, F. Alquaddoomi, J. Jenkins, J. Kang, C. Ketcham,  Z. Khalapyan, B. Longstaff, S. Nolen, J. Ooms, J. Selsky, N. Ramanathan, D. Estrin, ohmage: a General and Extensible End-to-End Participatory Sensing Platform, In submission to ACM Transactions on Intelligent Systems and Technology, July-2014. UCLA CS Technical Report 140015 ([[http://web.ohmage.org/~hongsudt/pub/ohmage_ucla_140015.pdf|pdf]])
+  * Cheng-Kang Hsieh, Hongsuda Tangmunarunkit, Faisal Alquaddoomi, John Jenkins, Jinha Kang, Cameron Ketcham,  Brent Longstaff, Joshua Selsky, Dallas Swendeman, Deborah Estrin, Nithya Ramanathan, Lifestreams: a modular sense-making toolset for identifying important patterns from everyday life, ACM Sensys 2013. ([[http://web.ohmage.org/~hongsudt/pub/Lifestreams-Sensys2013.pdf|pdf]])
+
+

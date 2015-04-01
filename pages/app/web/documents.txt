@@ -1,0 +1,36 @@
+===== Documents - Web Frontend =====
+
+The Documents tab allows users to
+  * Store documents (instead of using a flash drive or saving documents directly on a computer)
+  * Share documents
+
+When you click on the documents tab, it will look something like this ([[:app:web:faq|Why doesn't my screen look like your screen shots?]]):
+
+{{ :app:web:documents1.png?direct&700 |}}
+
+Across the top left of the page are links to select only documents that you have created (My Documents) to see all documents that are shared with you (All Documents) or to upload an additional document (Upload). In the center of the page is a list of documents and their associated values (name, size, creator, privacy, date modified, and a list of actions). The possible actions on a particular document are details, edit and download.
+
+====Upload a Document====
+Clicking on the Upload Documents button will take you to this screen:
+
+{{ :app:web:documents2.png?direct&700 |}}
+
+Clicking Choose File will produce a dialog box allowing you to navigate to and choose a particular document for upload. The Document Name and Description fields are free text fields for describing the document. The Privacy Setting (either Private or Shared) can be chosen from the dropdown. Then, clicking on the Add Campaigns or Add Classes buttons will allow you to select the group this document is most associated with. You must choose at least one campaign or class with which to associate each document. Note that if you mark the document shared and associate it with a class, it will be shared with the members of that class. If you mark a document private and associate it with a class, they will not be able to see it.
+**NOTE: While you may see a file size limitation of 5.24MB, that is an incorrect display, the actual maximum file size is 25MB.**
+
+====View Document Details====
+By clicking on the details link under Actions on the right side of the main Documents page, you will be brought to a screen that looks like this:
+
+{{ :app:web:documents3.png?direct&700 |}}
+
+This page allows you to view all the details about the document. It lists the document's name, its size, who it was created by, and when it was last modified. Then, it provides the description of the document, the current privacy state, and the associated campaigns and classes. Note that this document has no associated campaigns, but is associated with one class. This page provides a link both at the top and bottom to download the document, as well as a link at the top to edit the document (if you have the correct privileges to do so).
+
+====Edit a Document====
+To make changes to a document, click on the edit link under Actions on the right side of the main Documents page. The edit screen looks like this:
+
+{{ :app:web:documents4.png?direct&700 |}}
+
+Much like the upload document page, this page allows you to edit the name, description, privacy setting and linked campaigns or classes. It is also possible to delete a document outright.
+
+====Download a Document====
+There are several ways to download a document. The first is from the main page of the Documents tab, under actions. By clicking on the "download link," you will begin the download. Documents can also be downloaded from the details page.
