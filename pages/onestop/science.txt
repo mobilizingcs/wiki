@@ -2,7 +2,7 @@
 
 This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
 
-Are you having trouble seeing your class data on the Dashboard? Need additional classroom or technical support? Please visit our FAQ site for answers to common questions [[https://wiki.mobilizingcs.org/faq]] or visit [[https://wiki.mobilizingcs.org/home#available_video_tutorials|Home]]and watch the Video Tutorials for the Web FrontEnd.
+Are you having trouble seeing your class data on the Dashboard? Need additional classroom or technical support? Please visit our FAQ site for answers to [[https://wiki.mobilizingcs.org/faq|common questions]] or visit [[https://wiki.mobilizingcs.org/home#available_video_tutorials|Home]]and watch the Video Tutorials for the Web FrontEnd.
 
 
 ==== Step 1 (Weeks+ before staring unit) - Handling Student/Parent Consent Forms ====
