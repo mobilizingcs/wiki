@@ -63,6 +63,11 @@
 **A**: Students with their own devices need to have access to either the data plan or wifi access at home. If you don't, we would recommend you to borrow a Mobilize phone to do your data collection. 
 
 ----
+**Q**: How do I install apps on my android or iOS device?
+
+**A**: Please take a look at these great tutorials provided by external parties for details on getting apps installed on your [[http://www.wikihow.com/Install-an-iPhone-Application|iOS]] or [[http://www.howtogeek.com/161366/5-ways-to-install-android-apps-on-your-phone-or-tablet/|Android]] device.  Once you've done that, you can follow the process specifically for our apps: [[https://itunes.apple.com/us/app/mobilize-mwf/id601202066?mt=8|iOS]], [[https://play.google.com/store/apps/details?id=org.ohmage.mobilizingcs|Android]]. 
+
+----
 ==== No devices: browser-based data collection ====
 **Q**: Can I still collect some data if I don't have a smartphone and cannot borrow one from the Mobilize project?
 
