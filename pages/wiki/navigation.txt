@@ -1,5 +1,5 @@
   * [[:home|Home]]
-  * [[https://lausd.mobilizingcs.org/|URLs]]
+  * [[https://lausd.mobilizingcs.org/|Landing Page]]
   * One-stop info 
     * [[:onestop:ms|Math Teachers]]
     * [[:onestop:science|Science Teachers]]
