@@ -52,4 +52,4 @@ A: It is up to each individual student to decide whether or not to take both Alg
 
 **Q: Is IDS equivalent to Algebra II?**
 
-No. They are not the same; however, IDS is a statistics mathematics course, so it validates both Algebra II and Algebra I.
+No. They are not the same; however, IDS is a statistics core mathematics course, so it validates both Algebra II and Algebra I.
