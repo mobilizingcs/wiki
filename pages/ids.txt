@@ -10,7 +10,7 @@ Download the video [[https://www.dropbox.com/s/biljnp1tikptu63/Target%20Story.mp
 
 ====Download the IDS Curriculum====
 
-**Note:** Units 1, 2 and 3 are available. Unit 4 will be available in Spring 2015.
+**Note:** IDS v 2.0 will be available summer 2015.
 
 * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Introduction to Data Science v 1.0]]
 
