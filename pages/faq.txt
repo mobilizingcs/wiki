@@ -50,7 +50,7 @@
 ==== Using students' devices ====
 **Q**: Why should I use my own smartphone in the Mobilize project?
 
-**A**: With your own phone, you don't need to carry or be responsible for an additional device. Since you will always have your phone with you, this allows you to collect data as often as you want. The data usage is very minimal (See the Q&A below). More importantly, your contribution will allow us to have more Mobilize phones available for your fellow students who do not have smartphones to borrow.   
+**A**: With your own phone, you don't need to carry or be responsible for an additional device. Since you will always have your phone with you, this allows you to collect data as often as you want. The data usage is very minimal (See the Q&A below). 
 
 ----
 **Q**: How much data will the Mobilize phone app use?
