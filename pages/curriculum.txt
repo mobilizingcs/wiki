@@ -15,7 +15,7 @@ Mobilize curriculum materials for Mathematics, Science, and Mobilize Prime are l
 
 ==== Mobilize Math Unit & Supplemental Materials ====  
 
-  * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] The Mobilize Mathematics curriculum is now available! The link will take you to the general directory for all Mobilize curricula.  Just click on the folder marked "MZ Curriculum_Math" to find current Mobilize Units 1 & 2, Lesson PowerPoints, Student Handouts, and Teacher Resources.
+  * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] The updated 2015-16 version of Unit 1 of the Mobilize Mathematics curriculum is now available! The link will take you to the general directory for all Mobilize curricula.  Just click on the folder marked "MZ Curriculum_Math" to find current Curriculum, Lesson PowerPoints, Student Handouts, and Teacher Resources for Mobilize Unit 1. The 2015-16 version of Unit 2 will be available in late August 2015.
      
   //External References//
   * Guidelines for Assessment and Instruction in Statistics Education (GAISE) Report : [[http://www.amstat.org/education/gaise/GAISEPreK12_Intro.pdf]]. This document illustrates key concepts and the problem-solving process of statistical reasoning that are based on real data and real-world contexts.
