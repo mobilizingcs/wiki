@@ -4,8 +4,8 @@
   * [[rstudio:ids|R commands for IDS]]
   * [[rstudio:mzp|R commands for Mobilize Prime for ECS]]
 
-==== What do I do when something breaks? ====
-  * //My console keeps showing the "+" symbol instead of the R prompt (">").//
+==== Frequently asked questions ====
+  * //My console keeps showing the "+" symbol instead of the R prompt (">"). How do I fix this?//
     * This is most often caused by a missing close parenthesis, ")", or less often a missing close curly-brace. "}". The easiest fix is to focus on the console (act as if you're going to type something into it) and hit the ''esc'' key.
   * //My RStudio seems to be missing some functions. That is, it says:// ''Error: could not find function "foo"''.
     * If you happen to know the package that contains the function, you can load it using the ''library'' function. For example, to load the MobilizeSimple package type: ''library(MobilizeSimple)''.
@@ -17,3 +17,5 @@
     * [[:contact|Contact our support team by e-mail or telephone.]]
   * //My screen is so small that it's hard for me to read.//
     * [[rstudio:panes#other_tips_tricks|Find some tips on pane layout and window management here.]]
+  * //How can I clear my console?//
+    * Focus on the console by click anywhere inside the pane. Then press ''Ctrl + L'' on the keyboard.
