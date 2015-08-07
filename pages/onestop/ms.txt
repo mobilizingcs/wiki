@@ -12,12 +12,7 @@ This wiki provides a single page with a step-by-step process (and all necessary 
   * THANK YOU!
 
 // ** __Consent Forms:__** //
-  * Parent Information Sheet  ({{: onestop:blue_parent_infosheet_english_2014-15.pdf
-|English}}, {{: onestop:blue_parent_infosheet_spanish_2014-15.pdf
-|Spanish}})
-  * Student Information Sheet  ({{: onestop:blue_student_infosheet_english_2014-15.pdf|English}})
-  * Parent Consent Form  ({{:onestop:gold_parent_consentform_english_2014-15.pdf|English}}, {{:onestop:gold_parent_consentform_spanish_2014-15.pdf|Spanish}})
-  * Student Consent Form  ({{: onestop:gold_student_consentform_english_2014-15.pdf|English}})
+ Student and Parent Consent forms for the 2015-16 academic year will be posted by late August 2015.
 
 ==== Step 2 (Week+ before starting unit) - Check software; Create classes and accounts ==== 
   * {{:wiki:computer-3.png?nolink&20}} Teachers make sure that they and their students will have access a computer lab that satisfies the [[https://wiki.mobilizingcs.org/requirements|minimum software requirements]]. 
