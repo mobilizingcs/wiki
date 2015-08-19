@@ -96,7 +96,7 @@ Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly an
   * Student Math Journals
 
  
-==== Step 8 (Day 6) - Implement Lesson 5: Is my Snacking Healthy? ====
+==== Step 8 (Day 6) - Implement Lesson 5: Categorical versus Quantitative Data ====
   * In this lesson, students will determine how their perceived healthiness correspond to reality. 
   * Students will consider the questions: “What does my data tell me about nutrition?” and “What is healthy nutrition?” 
   * In expert groups, students will read articles on health and nutrition for teens and will justify or refine their initial ideas about nutrition and health.  
