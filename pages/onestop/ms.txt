@@ -109,7 +109,7 @@ Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly an
      * Nutrition Information handout
      * Toolkit 1-5 Articles 
   * Student Math JournalsComputers for each students
-==== Step 9 (Day 7-8) - Implement Lesson 6: Designing a Nutrition Campaign ====
+==== Step 9 (Day 7) - Implement Lesson 6: Predictions and Relationships ====
   * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Analyze students’ data collected using the Mobilize data collection app to determine “Which nutritional component has the greatest impact on increase in calories?” 
   * Students log in to the Mobilize web frontend at [[https://lausd.mobilizingcs.org/web]]. Click on "Explore Data" tab to access various plots.  
 
