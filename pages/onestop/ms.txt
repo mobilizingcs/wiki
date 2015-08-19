@@ -69,7 +69,7 @@ Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly an
       * Fruit Nutritional Facts
       * HO1 Teen Goals Survey
       * HO2 Mobilize App Instruction Sheet
-==== Step 6 (Day 4) - Implement Lesson 3: What’s Math Got to Do With Data? ====
+==== Step 6 (Day 3) - Implement Lesson 3: Statistical Questions & the Data Cycle ====
   * Students will create expressions and equations to better quantify and give values to their snack predictions and questions that they charted about their snack data in Lesson 2. 
   * They will also learn how to analyze data in graphs and other visualizations using mathematical expression to explain similarities and differences, i.e. 13% more students reported eating very healthy than those that reported eating somewhat healthy.
 
