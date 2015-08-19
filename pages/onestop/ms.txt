@@ -33,18 +33,18 @@ Watch the video [[http://youtu.be/XvSA-6BJkx4|HERE.]]
 
 Download the video [[https://www.dropbox.com/s/biljnp1tikptu63/Target%20Story.mp4?dl=0 | HERE.]]
 ==== Step 4 (Day 1) - Implement Lesson 1: Life with Big Data ====
-This inquiry lesson will engage students’ thinking about the types and quantity of data that is being generated through social networks and  on-line applications. Students will investigate: What is data? How is it used? Where does it come from? and What are the effects of data on their lives now and in the future.
-  * Idea Brainstorm:  What is data? How is it used? Where does it come from? How can data affect my life now and in the future?
-  * Video: Hunting for Cool:  See data collection activities in real world settings.
-  * Homework: In your Math Journals complete your two-paragraph summary of your learning today.
+Objective: Students reflect on what are data, how it is collected and used. Students are introduced to the unit question: How do data affect me now and in the future?
 
-// ** __Lesson 1 Resources__** //
+Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly and quantitatively
+
+// ** __Lesson 1 Resources & Materials__** //
   * Download the Lesson 1 PowerPoint presentation:{{https://www.dropbox.com/s/ye6h146nvcffej4/Lesson%201_Life%20with%20Big%20Data%20V5.22.14.pptx?dl=0 |Big Data in Our Lives}} 
-  * Download Video: {{https://www.dropbox.com/s/dvizbfqar7yhpjm/Lesson%201.%20Hunting%20For%20Cool.mp4?dl=0|Hunting for Cool}}
+  * Download Target Story Video: {{https://www.dropbox.com/s/dvizbfqar7yhpjm/Lesson%201.%20Hunting%20For%20Cool.mp4?dl=0|Hunting for Cool}}
   * Download {{https://www.dropbox.com/sh/1qqxtltvccr96vs/AAAXNDw9rNsqQWtiTjzBDuSRa?dl=0 |Lesson 1 Student Handouts:}} 
-      * HO1 The Data Four-Fold organizer
-      * HO2 Video Notes Organizer 
+      * Student HO1 The Data Four-Fold organizer
+      * Student HO2 Data Diary Project 
   * Student Math Journal
+  * Chart size copy of the Four-Fold Organizer
 ==== Step 5 (Day 2-3) - Implement Lesson 2: What can data say about our snacking? ====
   * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Distribute user names and passwords. To obtain user names and passwords, login to the Mobilize teacher tool at [[https://lausd.mobilizingcs.org/teacher]], select an appropriate class, then click on the "print" button.
   * {{:wiki:logo.png?nolink&25|}} Have students downloaded the Mobilize data collection app from the following locations: 
