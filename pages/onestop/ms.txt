@@ -45,7 +45,7 @@ Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly an
       * Student HO2 Data Diary Project 
   * Student Math Journal
   * Chart size copy of the Four-Fold Organizer
-==== Step 5 (Day 2-3) - Implement Lesson 2: What can data say about our snacking? ====
+==== Step 5 (Day 2) - Implement Lesson 2: Forming Conjectures ====
   * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Distribute user names and passwords. To obtain user names and passwords, login to the Mobilize teacher tool at [[https://lausd.mobilizingcs.org/teacher]], select an appropriate class, then click on the "print" button.
   * {{:wiki:logo.png?nolink&25|}} Have students downloaded the Mobilize data collection app from the following locations: 
     * // ** __Google Play Store:__** // 
