@@ -82,7 +82,7 @@ Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly an
   * Download PowerPoint presentation: {{https://www.dropbox.com/s/lhjtbb2rdhlz71x/Lesson%203_What%27s%20Math%20Got%20to%20do%20with%20Data%20%28V9.7.14%29.ppt?dl=0|What’s Math Got to Do With Data?}} 
   * Student Prediction charts: Information recorded during lesson 2 
   * Student Math Journals 
-==== Step 7 (Day 5) - Implement Lesson 4: What Does my Snack Data Tell Me about my Nutrition? ====
+==== Step 7 (Day 4-5) - Implement Lesson 4: Data Generated Expressions and Equations  ====
   * Students will learn to explain similarities and differences in their data by making statements of comparison, such as 
     * “53% of my snacks were eaten at home, and 40% of those were eaten alone.”  
   * Students will learn the format required to create expressions and equations to represent their snacking habits.  They will understand the importance of defining the variables needed to translate their findings into equations. 
