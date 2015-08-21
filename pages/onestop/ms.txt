@@ -50,9 +50,10 @@ Common Core State Standards & Mathematical Practices:
 ==== Step 5 (Day 2) - Implement Lesson 2: Forming Conjectures ====
 Objective: Students will learn to form questions and make predictions about data. They will make predictions that can be phrased as “I predict that…” and be able to identify types of data and variables present.
 
-Common Core Standards & Mathematical Practices: NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
-NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
-MP3 - Construct viable arguments and critique the reasoning of others.
+Common Core Standards & Mathematical Practices:
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+  MP3 - Construct viable arguments and critique the reasoning of others.
 
 // ** __Lesson 2 Resources & Materials__** //
   * Download the Lesson 2 PowerPoint presentation (additional resources)
