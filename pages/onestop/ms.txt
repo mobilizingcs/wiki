@@ -103,18 +103,21 @@ Common Core Standards & Mathematical Practices:
 
  
 ==== Step 8 (Day 6) - Implement Lesson 5: Categorical versus Quantitative Data ====
-  * In this lesson, students will determine how their perceived healthiness correspond to reality. 
-  * Students will consider the questions: “What does my data tell me about nutrition?” and “What is healthy nutrition?” 
-  * In expert groups, students will read articles on health and nutrition for teens and will justify or refine their initial ideas about nutrition and health.  
+// ** __The campaign has now ended and students should no longer be collecting data.__** //
+Objective: Students use the dashboard to analyze personal and class data. Students identify expressions and equations that represent their data, develop research questions and explore evidence to support their claims.
+
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  ACED1 - Create equations and inequalities in one variable including ones with absolute value and use them to solve problems in and out of context, including equations arising from linear functions.
+  MP2 - Reason abstractly and quantitatively.
+  MP3 - Construct viable arguments and critique the reasoning of others.
 
 // ** __Lesson 5 Resources__** //
-  * Download PowerPoint presentation {{https://www.dropbox.com/s/vqrxm3kt48ihjtb/Lesson%205_Is%20my%20Snacking%20Healthy%3F%20%28V9.8.14%29.pptx?dl=0|Is my Snacking Healthy?}} 
-  * Computers for each students 
-  * Mobilize Dashboard URL and Student login information
-  * Download{{https://www.dropbox.com/sh/ahhvl5yy2io4xw1/AAB0SfeN27mhFegX15d9sb_Xa?dl=0|Lesson 5 Student Handouts}} 
-     * Nutrition Information handout
-     * Toolkit 1-5 Articles 
-  * Student Math JournalsComputers for each students
+  * Download PowerPoint presentation (additional resources)
+  * Computers for students
+  * Mobilize Dashboard URL and Student Login Information
+  * Mobilize Snack Dashboard Exploration Handout (from Lesson 4)
+  * Student Math Journal
 ==== Step 9 (Day 7) - Implement Lesson 6: Predictions and Relationships ====
   * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Analyze students’ data collected using the Mobilize data collection app to determine “Which nutritional component has the greatest impact on increase in calories?” 
   * Students log in to the Mobilize web frontend at [[https://lausd.mobilizingcs.org/web]]. Click on "Explore Data" tab to access various plots.  
