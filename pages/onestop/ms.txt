@@ -38,11 +38,10 @@ Objective: Students reflect on what are data, how it is collected and used. Stud
 Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly and quantitatively
 
 // ** __Lesson 1 Resources & Materials__** //
-  * Download the Lesson 1 PowerPoint presentation:{{https://www.dropbox.com/s/ye6h146nvcffej4/Lesson%201_Life%20with%20Big%20Data%20V5.22.14.pptx?dl=0 |Big Data in Our Lives}} 
-  * Download Target Story Video: {{https://www.dropbox.com/s/dvizbfqar7yhpjm/Lesson%201.%20Hunting%20For%20Cool.mp4?dl=0|Hunting for Cool}}
-  * Download {{https://www.dropbox.com/sh/1qqxtltvccr96vs/AAAXNDw9rNsqQWtiTjzBDuSRa?dl=0 |Lesson 1 Student Handouts:}} 
-      * Student HO1 The Data Four-Fold organizer
-      * Student HO2 Data Diary Project 
+  * Download the Lesson 1 PowerPoint presentation (additional resources)
+  * Watch Target Story Video: [[http://youtu.be/XvSA-6BJkx4|HERE.]]
+  * Student HO1 The Data Four-Fold Organizer
+  * Student HO2 Data Diary Project 
   * Student Math Journal
   * Chart size copy of the Four-Fold Organizer
 ==== Step 5 (Day 2) - Implement Lesson 2: Forming Conjectures ====
