@@ -64,11 +64,12 @@ Common Core Standards & Mathematical Practices:
 ==== Step 6 (Day 3) - Implement Lesson 3: Statistical Questions & the Data Cycle ====
 Objective: Students formalize statistical questions and understand the flow of the Data Cycle.  Students upload and use the Mobilize Snack Campaign to collect data about their personal snack consumption. *Note to teacher: try to schedule this lesson for a Friday or day before a weekend so that students can collect data over multiple days.
 
-Common Core Standards & Mathematical Practices: NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
- NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
- NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
- MP6 - Attend to precision.
- MP7 - Look for and make use of structure.
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
+  MP6 - Attend to precision.
+  MP7 - Look for and make use of structure.
 
 // ** __Lesson 3 Resources & Materials__** //
   * Download Lesson 3 PowerPoint presentation (additional resources)
