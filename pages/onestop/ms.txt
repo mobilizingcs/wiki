@@ -53,7 +53,7 @@ NQ3 - Choose a level of accuracy appropriate to limitations on measurement when 
 MP3 - Construct viable arguments and critique the reasoning of others.
 
 // ** __Lesson 2 Resources & Materials__** //
-* Download the Lesson 2 PowerPoint presentation: {{https://www.dropbox.com/s/pzpo5u37u2lexcn/Lesson%202%20Mobilize%20App%20%28V9.7.14%29.ppt?dl=0|Mobilize App (V5.22.14) }} 
+  * Download the Lesson 2 PowerPoint presentation: {{https://www.dropbox.com/s/pzpo5u37u2lexcn/Lesson%202%20Mobilize%20App%20%28V9.7.14%29.ppt?dl=0|Mobilize App (V5.22.14) }} 
   * Student Math Journal
   * Data Diary Project (from Lesson 1)
   * Download {{https://www.dropbox.com/sh/ml3bjt1qk7d7unq/AAA015hldiVn_PkSLixsBUwIa?dl=0|Lesson 2 Student Handouts}} 
