@@ -135,6 +135,26 @@ Common Core Standards & Mathematical Practices:
      * Handout 4b - Swapping Lunchbox Sweets
      * Handout 5 - Toolkit 6: Taste a Rainbow
   * Student Math Journals
+==== Step 10 (Day 8-10) - Implement Lesson 7: Supporting Claims with Mathematical Evidence ====
+Objective: Students create a final project that utilizes the data cycle and as a result they will display the data and mathematical evidence needed for analyzing and supporting their claims. Then, finally, they will interpret their data in order to revise their statistical questions to develop a new campaign to collect data on the nutrition of their snacks.
+
+Common Core Standards & Mathematical Practices:
+  A-SSE1 Interpret expressions that represent a quantity in terms of its context
+  A-CED1 Create equations and inequalities in one variable including ones with absolute value and use them to solve problems in and out of context, including equations arising from linear functions.
+  MP4 - Model with mathematics.
+  // ** __The following standards can be assessed as an extension for more of a challenge to students__** //
+  A-CED2 Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
+  A-CED10 Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).
+
+// ** __Lesson 6 Resources__** //
+  * Computers for students
+  * Student HO1 - Data Cycle Information Handout
+  * Student HO2 - Data Cycle Diagram Handout
+  * Student HO3 - Oral Presentation Evaluation Form
+  * Student HO4 - Peer Evaluation Rubric
+  * Posters for each team for a team presentation
+  * Student Math Journal
+
 ==== - Please Uploading the Final Projects to the Web Front End ==== 
   * Please take a picture of all Students posters.
   * Follow the instructions in Step 10 upload the pictures.
