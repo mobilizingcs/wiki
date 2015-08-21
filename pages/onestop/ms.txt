@@ -142,7 +142,7 @@ Common Core Standards & Mathematical Practices:
   A-SSE1 Interpret expressions that represent a quantity in terms of its context
   A-CED1 Create equations and inequalities in one variable including ones with absolute value and use them to solve problems in and out of context, including equations arising from linear functions.
   MP4 - Model with mathematics.
-  // ** __The following standards can be assessed as an extension for more of a challenge to students__** //
+  **The following standards can be assessed as an extension for more of a challenge to students:
   A-CED2 Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
   A-CED10 Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).
 
