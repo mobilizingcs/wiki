@@ -1,6 +1,8 @@
 **The following page is under construction. **
 ===== Math - Mobilize ONESTOP =====
-This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
+This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. All materials you'll need to implement the Mobilize Math curriculum can be found here. The link will take you to the general directory for all Mobilize curricula. Just click on the folder marked "MZ Curriculum_Math" to find current versions of the Mobilize Math Unit, PowerPoints, Student Handouts, and Additional Teacher Resources. 
+
+All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
 
 
 ==== Step 1 (Week+ before starting unit) - Handling Consent Forms or Information Sheets ====
