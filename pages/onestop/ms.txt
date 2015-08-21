@@ -46,29 +46,20 @@ Common Core State Standards & Mathematical Practices: MP2 - Reason abstractly an
   * Student Math Journal
   * Chart size copy of the Four-Fold Organizer
 ==== Step 5 (Day 2) - Implement Lesson 2: Forming Conjectures ====
-  * {{:wiki:mobilize_finallogo_cmyk.png?nolink&60|}} Distribute user names and passwords. To obtain user names and passwords, login to the Mobilize teacher tool at [[https://lausd.mobilizingcs.org/teacher]], select an appropriate class, then click on the "print" button.
-  * {{:wiki:logo.png?nolink&25|}} Have students downloaded the Mobilize data collection app from the following locations: 
-    * // ** __Google Play Store:__** // 
-      * Search for "UCLA MobilizingCS" app or download from [https://play.google.com/store/apps/details?id=org.ohmage.mobilizingcs]
-      * [optional] Search for "SystemSens" app or download from [https://play.google.com/store/apps/details?id=edu.ucla.cens.systemsens&hl=en]
-    * // ** __iOS App Store:__** //  
-      * Search for "UCLA MobilizingCS" app or download from [https://itunes.apple.com/us/app/mobilize-mwf/id601202066?mt=8]
-    * // ** __Web-Based Application:__** //
-    * For students that do not have smartphones, go to the Mobilize web-based application at [[https://lausd.mobilizingcs.org/survey]] to collect data. 
+Objective: Students will learn to form questions and make predictions about data. They will make predictions that can be phrased as “I predict that…” and be able to identify types of data and variables present.
 
-  * Watch [[https://wiki.mobilizingcs.org/home?&#available_video_tutorials|Mobilize tutorials]] on data collection. 
-  * Navigate the Mobilize data collection app and practice using the app.
-  * Discuss research question, photo ethics and student safety related to phone/device use. 
-  * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.   
+Common Core Standards & Mathematical Practices: NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+MP3 - Construct viable arguments and critique the reasoning of others.
 
-// ** __Lesson 2 Resources__** //
-  * Download the Lesson 2 PowerPoint presentation: {{https://www.dropbox.com/s/pzpo5u37u2lexcn/Lesson%202%20Mobilize%20App%20%28V9.7.14%29.ppt?dl=0|Mobilize App (V5.22.14) }} 
-  * Student Cell Phones, iPads, or iPods
+// ** __Lesson 2 Resources & Materials__** //
+* Download the Lesson 2 PowerPoint presentation: {{https://www.dropbox.com/s/pzpo5u37u2lexcn/Lesson%202%20Mobilize%20App%20%28V9.7.14%29.ppt?dl=0|Mobilize App (V5.22.14) }} 
   * Student Math Journal
+  * Data Diary Project (from Lesson 1)
   * Download {{https://www.dropbox.com/sh/ml3bjt1qk7d7unq/AAA015hldiVn_PkSLixsBUwIa?dl=0|Lesson 2 Student Handouts}} 
-      * Fruit Nutritional Facts
-      * HO1 Teen Goals Survey
-      * HO2 Mobilize App Instruction Sheet
+      * Student Handout 1: Set the Scene Activity – Snack Times
+
+
 ==== Step 6 (Day 3) - Implement Lesson 3: Statistical Questions & the Data Cycle ====
   * Students will create expressions and equations to better quantify and give values to their snack predictions and questions that they charted about their snack data in Lesson 2. 
   * They will also learn how to analyze data in graphs and other visualizations using mathematical expression to explain similarities and differences, i.e. 13% more students reported eating very healthy than those that reported eating somewhat healthy.
