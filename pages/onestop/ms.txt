@@ -88,9 +88,8 @@ Common Core Standards & Mathematical Practices:
   MP2 - Reason abstractly and quantitatively.
   MP5 - Use appropriate tools strategically.
 
-
-
 // ** __Lesson 4 Resources & Materials__** //
+// ** __Day 1__** //
   * Download PowerPoint presentation (additional resources)
   * Student Math Journal (all notes/ summaries)
   * Student HO1 :Dashboard Donut Plot Exploration Handout
