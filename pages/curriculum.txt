@@ -22,6 +22,11 @@ Curriculum materials for Mobilize Mathematics, Science, IDS, and Mobilize Prime 
 
 ---------------
 
+==== IDS ====
+ * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] The link will take you to the general directory for all https://wiki.mobilizingcs.org/ curricula. Just click on the folder marked "MZ Curriculum_IDS" to find current versions of the IDS curriculum.
+--------------
+
+
 ==== Mobilize Prime ====
   * {{http://www.exploringcs.org/wp-content/uploads/2010/08/ExploringComputerScience-v5.0.pdf| ECS Unit 5: Computing and Data Analysis (page 191-262)}}
   * {{:curriculum:mzp_focus_sheets_final_10.09.13.pdf| MZ Prime Focus Sheets}}
@@ -32,9 +37,6 @@ Curriculum materials for Mobilize Mathematics, Science, IDS, and Mobilize Prime 
 
 --------------
 
-==== IDS ====
- * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] The link will take you to the general directory for all https://wiki.mobilizingcs.org/ curricula. Just click on the folder marked "MZ Curriculum_IDS" to find current versions of the IDS curriculum.
---------------
 
 
 ==== Professional Development Materials ====
