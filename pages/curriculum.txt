@@ -1,10 +1,10 @@
 ===== Download the Curriculum =====
 
-Mobilize curriculum materials for Mathematics, Science, and Mobilize Prime are listed below: 
+Curriculum materials for Mobilize Mathematics, Science, IDS, and Mobilize Prime are listed below: 
 
 ==== Mobilize Science Unit & Supplemental Materials ====
 
-  * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] All materials you'll need to implement the Mobilize Science curriculum can be found here. The link will take you to the general directory for all Mobilize curricula. Just click on the folder marked "MZ Curriculum_Science" to find current versions of the Mobilize Science Unit, PowerPoints, Student Handouts, PSA Exemplars (also below), and Additional Teacher Resources. 
+  * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] All materials you'll need to implement the Mobilize Science curriculum can be found here. The link will take you to the general directory for all https://wiki.mobilizingcs.org/ curricula. Just click on the folder marked "MZ Curriculum_Science" to find current versions of the Mobilize Science Unit, PowerPoints, Student Handouts, PSA Exemplars (also below), and Additional Teacher Resources. 
 
   * PSA Exemplars
     * <html><a href="https://goanimate.com/videos/0WnnIwceZunI?utm_source=embed" target="_blank">Mobilize Trash Exemplars</a> by <a href="https://goanimate.com/user/06Z8UoDwMioQ" target="_blank">joyrperez</a> on <a href='https://goanimate.com?utm_source=embed' target="_blank">GoAnimate</a><br/><iframe scrolling="no" allowTransparency="true" frameborder="0" width="400" height="258" src="https://goanimate.com/player/embed/0WnnIwceZunI"></iframe></html>
@@ -33,8 +33,7 @@ Mobilize curriculum materials for Mathematics, Science, and Mobilize Prime are l
 --------------
 
 ==== IDS ====
-  * {{https://www.dropbox.com/sh/2j6e7taf3oqt7g2/AADcE9d3f9NuNoJl30a9ZZqFa|Curriculum materials}}
-
+ * [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]] The link will take you to the general directory for all https://wiki.mobilizingcs.org/ curricula. Just click on the folder marked "MZ Curriculum_IDS" to find current versions of the IDS curriculum.
 --------------
 
 
