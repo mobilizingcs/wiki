@@ -253,4 +253,7 @@ Common Core Standards & Mathematical Practices:
   NQ
 
 // ** __Lesson 6 Resources & Materials__** //
-  * Download 
+  * LCD Projector
+  * Student Handout 1: Analyzing the Patterns in Data
+  * Student Math Journal
+
