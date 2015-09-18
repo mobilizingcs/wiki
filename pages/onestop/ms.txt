@@ -104,7 +104,7 @@ Common Core Standards & Mathematical Practices:
   * Student HO1 Mobilize Snack Dashboard Exploration
 
  
-==== Step 8 (Day 6) - Implement Lesson 5: Categorical versus Quantitative Data ====
+==== Step 8 (Day 6) - Implement Unit 1 - Lesson 5: Categorical versus Quantitative Data ====
 // ** __The campaign has now ended and students should no longer be collecting data.__** //
 Objective: Students use the dashboard to analyze personal and class data. Students identify expressions and equations that represent their data, develop research questions and explore evidence to support their claims.
 
