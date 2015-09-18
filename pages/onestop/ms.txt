@@ -79,7 +79,7 @@ Common Core Standards & Mathematical Practices:
   * Student Math Journals
   * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
   * Student HO1 Mobilize App Instruction Sheet
-==== Step 7 (Day 4-5) - Implement Lesson 4: Data Generated Expressions and Equations  ====
+==== Step 7 (Day 4-5) - Implement Unit 1 - Lesson 4: Data Generated Expressions and Equations  ====
 Objective: Day 1 - Students continue to collect data, create standards for having productive discussions regarding collected data (non-attacking), and begin to explore the dashboard to introduce writing expressions and equations from data.
 Day 2 - Students create expressions and equations to better quantify their data and give values to their predictions and questions.
 
