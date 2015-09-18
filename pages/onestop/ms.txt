@@ -211,23 +211,16 @@ Common Core Standards & Mathematical Practices:
   * Student Handout 4 (Homework from Day 1): Family Data Collection Chart 
   * Student Math Journals
   
-==== Step 13 (Day ?) - Implement Lesson ?  ====
-Objective: 
+==== Step 13 (Day 3) - Implement Unit 2 - Lesson 2: Analyzing Visualizations  ====
+Objective: Students will analyze height data that they collect on themselves and on members of their families and learn how to determine if there is a relationship between two variables: age and height.
+Students will identify features of a scatterplot to gain an understanding that for data collected on real-life events, variability makes it more difficult to see patterns clearly.
+ 
 
 Common Core Standards & Mathematical Practices:
-  A-SSE1 Interpret expressions that represent a quantity in terms of its context
-  A-CED1 Create equations and inequalities in one variable including ones with absolute value and use them to solve problems in and out of context, including equations arising from linear functions.
-  MP1 - Make sense of problems and persevere in solving them.
-  MP2 - Reason abstractly and quantitatively.
-  MP5 - Use appropriate tools strategically.
+  A-
   
-// ** __Lesson ? Resources & Materials__** //
-  * Download Lesson 3 PowerPoint presentation (additional resources)
-  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
-  * Student Math Journals
-  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
-  * Student HO1 Mobilize App Instruction Sheet
-
+// ** __Lesson 2 Resources & Materials__** //
+  * Download 
 ==== Step 14 (Day ?) - Implement Lesson  ====
 Objective: 
 
