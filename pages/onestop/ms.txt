@@ -120,7 +120,7 @@ Common Core Standards & Mathematical Practices:
   * Mobilize Dashboard URL and Student Login Information
   * Mobilize Snack Dashboard Exploration Handout (from Lesson 4)
   * Student Math Journal
-==== Step 9 (Day 7) - Implement Lesson 6: Predictions and Relationships ====
+==== Step 9 (Day 7) - Implement Unit 1 - Lesson 6: Predictions and Relationships ====
 Objective: Students research articles to better understand what data are necessary to revise predictions and find relationships between variables.
 
 Common Core Standards & Mathematical Practices:
