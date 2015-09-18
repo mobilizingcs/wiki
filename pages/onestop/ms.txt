@@ -188,23 +188,28 @@ Students will now download the Nutrition Campaign that has been developed to ali
   * Discuss research question, photo ethics and student safety related to phone/device use. 
   * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.
 
-==== Step 12 (Day ?) - Implement Lesson  ====
-Objective: 
+==== Step 12 (Day 1-2) - Implement Unit 1 - Lesson 1: Data Visualizations  ====
+Objective: DAY 1 Students reflect on the data visualizations from Unit 1 and draw conclusions about single-variant data and multi-variant data. Students will gain insights into the world’s view of ‘Big Data.’
+DAY 2 Students will manually collect their height data and for others in their circle, to interpret trends in data.
+ 
 
 Common Core Standards & Mathematical Practices:
-  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
-  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
-  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
-  MP6 - Attend to precision.
-  MP7 - Look for and make use of structure.
+  NQ
+  MP
 
-// ** __Lesson ? Resources & Materials__** //
-  * Download Lesson 3 PowerPoint presentation (additional resources)
-  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+// ** __Lesson 1 Resources & Materials__** //
+  * LCD Projector
+  * Student Handout 1: Campaign Creation Graphic Organizer
+  * Student Handout 2: Data Visualization Graphic Organizer
+  * Student Handout 3: Plot Analysis Guide - can be found in Unit 1 Teacher Resources
+  * Student Handout 4 (Homework): Family Data Collection Chart
+  * Student Math Journal: All notes, individual journaling and summaries should be kept in one notebook.
+  * LCD Projector
+  * Student Handout 5: Data Visualization Partner Cards
+  * Data Visualization Handouts (8 with discussion questions) - can be found in Teacher Resources
+  * Student Handout 4 (Homework from Day 1): Family Data Collection Chart 
   * Student Math Journals
-  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
-  * Student HO1 Mobilize App Instruction Sheet
-
+  
 ==== Step 13 (Day ?) - Implement Lesson ?  ====
 Objective: 
 
