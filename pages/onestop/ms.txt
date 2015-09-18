@@ -230,7 +230,7 @@ Common Core Standards & Mathematical Practices:
   
 // ** __Lesson 3 Resources & Materials__** //
   * Download 
-==== Step 12 (Day 5) - Implement Unit 2 - Lesson 4: Trend Lines and Their Implications  ====
+==== Step 15 (Day 5) - Implement Unit 2 - Lesson 4: Trend Lines and Their Implications  ====
 Objective: Students upload and use the Mobilize Height Campaign to collect data about their height and arm span to analyze the association of these two data sets. Students will investigate the idea of Leonardo's drawings of the Vitruvian Man. 
 
 Common Core Standards & Mathematical Practices:
