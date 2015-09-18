@@ -229,7 +229,12 @@ Common Core Standards & Mathematical Practices:
   
   
 // ** __Lesson 3 Resources & Materials__** //
-  * Download 
+  * Student Handout 1: CDC Growth Reference Data for boys, ages 2-20 
+  * Student Handout 2: CDC Growth Reference Data for girls, ages 2-20 
+  * Student Handout 3: Growth Rate Data Chart
+  * Student Handout 4: Compare Contrast Charts
+  * Student Handout 5: Language Organizer (Optional)
+  * Analyzing Scatter Plots Handout (Student Handout 1 from lesson 2)
 ==== Step 15 (Day 5) - Implement Unit 2 - Lesson 4: Trend Lines and Their Implications  ====
 Objective: Students upload and use the Mobilize Height Campaign to collect data about their height and arm span to analyze the association of these two data sets. Students will investigate the idea of Leonardo's drawings of the Vitruvian Man. 
 
