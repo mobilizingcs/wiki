@@ -34,7 +34,8 @@ When your students have completed the "Pre-Q" you will have time to present the 
 Watch the video [[http://youtu.be/XvSA-6BJkx4|HERE.]]
 
 Download the video [[https://www.dropbox.com/s/biljnp1tikptu63/Target%20Story.mp4?dl=0 | HERE.]]
-==== Step 4 (Day 1) - Implement Lesson 1: Life with Big Data ====
+
+==== Step 4 (Day 1) - Implement Unit 1 - Lesson 1: Life with Big Data ====
 Objective: Students reflect on what are data, how it is collected and used. Students are introduced to the unit question: How do data affect me now and in the future?
 
 Common Core State Standards & Mathematical Practices:
@@ -47,6 +48,7 @@ Common Core State Standards & Mathematical Practices:
   * Student HO2 Data Diary Project 
   * Student Math Journal
   * Chart size copy of the Four-Fold Organizer
+
 ==== Step 5 (Day 2) - Implement Lesson 2: Forming Conjectures ====
 Objective: Students will learn to form questions and make predictions about data. They will make predictions that can be phrased as “I predict that…” and be able to identify types of data and variables present.
 
@@ -168,7 +170,7 @@ Common Core Standards & Mathematical Practices:
     * Click "save" to finish upload.
 
 ==== Step 11 (Post Lessons) - Nutrition Campaign ====
-Students will now download the Nutrition Campaign that has been developed to align with the ideas they generated during Lesson 6 while designing a new campaign. Have students download the campaign and collect data for several weeks, until the start of the Mobilize Math Unit 2.
+Students will now download the Nutrition Campaign that has been developed to align with the ideas they generated during Lesson 7 while designing a new campaign. Have students download the campaign and collect data for several weeks, until the start of the Mobilize Math Unit 2.
   * // ** __ User Names and Passwords__** // 
   * Students should all be familiar with their user names and passwords, but ensure that all students have their login information.
   *  Login to the Mobilize teacher tool at [[https://lausd.mobilizingcs.org/teacher]], select an appropriate class, to reset passwords if necessary.
@@ -184,4 +186,106 @@ Students will now download the Nutrition Campaign that has been developed to ali
   * Watch [[https://wiki.mobilizingcs.org/home?&#available_video_tutorials|Mobilize tutorials]] on data collection. 
   * Navigate the Mobilize data collection app and practice using the app.
   * Discuss research question, photo ethics and student safety related to phone/device use. 
-  * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.   
+  * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.
+
+==== Step 12 (Day ?) - Implement Lesson  ====
+Objective: 
+
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
+  MP6 - Attend to precision.
+  MP7 - Look for and make use of structure.
+
+// ** __Lesson ? Resources & Materials__** //
+  * Download Lesson 3 PowerPoint presentation (additional resources)
+  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+  * Student Math Journals
+  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
+  * Student HO1 Mobilize App Instruction Sheet
+
+==== Step 13 (Day ?) - Implement Lesson ?  ====
+Objective: 
+
+Common Core Standards & Mathematical Practices:
+  A-SSE1 Interpret expressions that represent a quantity in terms of its context
+  A-CED1 Create equations and inequalities in one variable including ones with absolute value and use them to solve problems in and out of context, including equations arising from linear functions.
+  MP1 - Make sense of problems and persevere in solving them.
+  MP2 - Reason abstractly and quantitatively.
+  MP5 - Use appropriate tools strategically.
+  
+// ** __Lesson ? Resources & Materials__** //
+  * Download Lesson 3 PowerPoint presentation (additional resources)
+  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+  * Student Math Journals
+  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
+  * Student HO1 Mobilize App Instruction Sheet
+
+==== Step 14 (Day ?) - Implement Lesson  ====
+Objective: 
+
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
+  MP6 - Attend to precision.
+  MP7 - Look for and make use of structure.
+
+// ** __Lesson ? Resources & Materials__** //
+  * Download Lesson 3 PowerPoint presentation (additional resources)
+  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+  * Student Math Journals
+  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
+  * Student HO1 Mobilize App Instruction Sheet
+
+==== Step 12 (Day ?) - Implement Lesson  ====
+Objective: 
+
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
+  MP6 - Attend to precision.
+  MP7 - Look for and make use of structure.
+
+// ** __Lesson ? Resources & Materials__** //
+  * Download Lesson 3 PowerPoint presentation (additional resources)
+  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+  * Student Math Journals
+  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
+  * Student HO1 Mobilize App Instruction Sheet
+
+==== Step 12 (Day ?) - Implement Lesson  ====
+Objective: 
+
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
+  MP6 - Attend to precision.
+  MP7 - Look for and make use of structure.
+
+// ** __Lesson ? Resources & Materials__** //
+  * Download Lesson 3 PowerPoint presentation (additional resources)
+  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+  * Student Math Journals
+  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
+  * Student HO1 Mobilize App Instruction Sheet
+
+==== Step 12 (Day ?) - Implement Lesson  ====
+Objective: 
+
+Common Core Standards & Mathematical Practices:
+  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
+  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
+  MP6 - Attend to precision.
+  MP7 - Look for and make use of structure.
+
+// ** __Lesson ? Resources & Materials__** //
+  * Download Lesson 3 PowerPoint presentation (additional resources)
+  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
+  * Student Math Journals
+  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
+  * Student HO1 Mobilize App Instruction Sheet
