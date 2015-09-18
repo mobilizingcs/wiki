@@ -230,23 +230,14 @@ Common Core Standards & Mathematical Practices:
   
 // ** __Lesson 3 Resources & Materials__** //
   * Download 
-==== Step 12 (Day ?) - Implement Lesson  ====
-Objective: 
+==== Step 12 (Day 5) - Implement Unit 2 - Lesson 4: Trend Lines and Their Implications  ====
+Objective: Students upload and use the Mobilize Height Campaign to collect data about their height and arm span to analyze the association of these two data sets. Students will investigate the idea of Leonardo's drawings of the Vitruvian Man. 
 
 Common Core Standards & Mathematical Practices:
-  NQ1 - Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
-  NQ2 - Define appropriate quantities for the purpose of descriptive modeling.
-  NQ3 - Choose a level of accuracy appropriate to limitations on measurement when reporting quantities
-  MP6 - Attend to precision.
-  MP7 - Look for and make use of structure.
+  NQ
 
-// ** __Lesson ? Resources & Materials__** //
-  * Download Lesson 3 PowerPoint presentation (additional resources)
-  * Student data collection devices: Cell Phones, iPads, iPods, or tablets 
-  * Student Math Journals
-  * Chart Poster for Students: Team Chart – Statistical Questions and Predictions
-  * Student HO1 Mobilize App Instruction Sheet
-
+// ** __Lesson 4 Resources & Materials__** //
+  * Download 
 ==== Step 12 (Day ?) - Implement Lesson  ====
 Objective: 
 
