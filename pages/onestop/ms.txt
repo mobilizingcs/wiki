@@ -220,7 +220,11 @@ Common Core Standards & Mathematical Practices:
   A-
   
 // ** __Lesson 2 Resources & Materials__** //
-  * Download 
+  * Friends & Family Graph (from lesson 1)
+  * Student Handout 1: Analyzing Scatter Plots 
+  * Student Math Journal
+
+ 
 ==== Step 14 (Day 4) - Implement Unit 2 - Lesson 3: Rate of Change in the World of Data====
 Objective: Using CDC, this lesson presents students with an opportunity to explore and gain a deeper understanding of rate of change, and the role it plays in interpreting graphs and understanding data. “What does the rate of change tell us about the relationship between two variables?”
 
