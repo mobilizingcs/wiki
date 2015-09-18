@@ -188,16 +188,16 @@ Students will now download the Nutrition Campaign that has been developed to ali
   * Discuss research question, photo ethics and student safety related to phone/device use. 
   * Note: Visit http://wiki.mobilizingcs.org/home for Mobilize technology description, as well as, online and video tutorials.
 
-==== Step 12 (Day 1-2) - Implement Unit 1 - Lesson 1: Data Visualizations  ====
-Objective: DAY 1 Students reflect on the data visualizations from Unit 1 and draw conclusions about single-variant data and multi-variant data. Students will gain insights into the world’s view of ‘Big Data.’
-DAY 2 Students will manually collect their height data and for others in their circle, to interpret trends in data.
+==== Step 12 (Day 1-2) - Implement Unit 2 - Lesson 1: Data Visualizations  ====
+Objective: DAY 1 - Students reflect on the data visualizations from Unit 1 and draw conclusions about single-variant data and multi-variant data. Students will gain insights into the world’s view of ‘Big Data.’
+DAY 2 - Students will manually collect their height data and for others in their circle, to interpret trends in data.
  
 
 Common Core Standards & Mathematical Practices:
   NQ
   MP
 
-// ** __Lesson 1 Resources & Materials__** //
+// ** __Lesson 1 Resources & Materials DAY 1__** //
   * LCD Projector
   * Student Handout 1: Campaign Creation Graphic Organizer
   * Student Handout 2: Data Visualization Graphic Organizer
@@ -205,6 +205,7 @@ Common Core Standards & Mathematical Practices:
   * Student Handout 4 (Homework): Family Data Collection Chart
   * Student Math Journal: All notes, individual journaling and summaries should be kept in one notebook.
   * LCD Projector
+// ** __DAY 2__** //
   * Student Handout 5: Data Visualization Partner Cards
   * Data Visualization Handouts (8 with discussion questions) - can be found in Teacher Resources
   * Student Handout 4 (Homework from Day 1): Family Data Collection Chart 
