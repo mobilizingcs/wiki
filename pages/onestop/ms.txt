@@ -237,7 +237,14 @@ Common Core Standards & Mathematical Practices:
   NQ
 
 // ** __Lesson 4 Resources & Materials__** //
-  * Download 
+  * LCD Projector
+  * Measuring instruments: 6-8 measuring tapes and yarn
+  * Student Data Collection Devices: Cell Phones, iPads, or iPods
+  * Student Handout 1: Height and Arm Span Data Chart and graph
+  * Package of spaghetti for finding trend lines.
+  * Student Math Journal
+
+
 ==== Step 16 (Day 6) - Implement Unit 2 - Lesson 5: Analyzing and Interpreting Data ====
 Objective: Students will gain more experience using the Plot App and the Dashboard to analyze and interpret data. They will explore and question their perception of a healthy snack using the nutrition facts in their data.
 
