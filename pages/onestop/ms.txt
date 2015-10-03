@@ -234,16 +234,19 @@ Common Core Standards & Mathematical Practices:
 Objective: Using CDC, this lesson presents students with an opportunity to explore and gain a deeper understanding of rate of change, and the role it plays in interpreting graphs and understanding data. “What does the rate of change tell us about the relationship between two variables?”
 
 Common Core Standards & Mathematical Practices:
-  NQ
+  F-IF1 Distinguish between situations that can be modeled with linear functions and with exponential functions.
+  a. Prove that linear functions grow by equal differences over equal intervals.
+  b. Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.
+  MP1 - Make sense of problems and persevere in solving them.
   
   
 // ** __Lesson 3 Resources & Materials__** //
-  * Student Handout 1: CDC Growth Reference Data for boys, ages 2-20 
-  * Student Handout 2: CDC Growth Reference Data for girls, ages 2-20 
+  * CDC Growth Reference Data for boys, ages 2-20 (Student Handout 4 from Lesson 2)
+  * CDC Growth Reference Data for girls, ages 2-20 (Student Handout 5 from Lesson 2)
+  * Student Handout 1: Compare Contrast Charts
+  * Student Handout 2: Language Organizer (Optional)
   * Student Handout 3: Growth Rate Data Chart
-  * Student Handout 4: Compare Contrast Charts
-  * Student Handout 5: Language Organizer (Optional)
-  * Analyzing Scatter Plots Handout (Student Handout 1 from lesson 2)
+  * Analyzing Scatter Plots Handout (Student Handout 1 from Lesson 2)
 ==== Step 15 (Day 5) - Implement Unit 2 - Lesson 4: Trend Lines and Their Implications  ====
 Objective: Students upload and use the Mobilize Height Campaign to collect data about their height and arm span to analyze the association of these two data sets. Students will investigate the idea of Leonardo's drawings of the Vitruvian Man. 
 
