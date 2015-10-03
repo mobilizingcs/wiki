@@ -235,8 +235,8 @@ Objective: Using CDC, this lesson presents students with an opportunity to explo
 
 Common Core Standards & Mathematical Practices:
   F-IF1 Distinguish between situations that can be modeled with linear functions and with exponential functions.
-  -   a. Prove that linear functions grow by equal differences over equal intervals.
-  -   b. Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.
+   a. Prove that linear functions grow by equal differences over equal intervals.
+   b. Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.
   MP1 - Make sense of problems and persevere in solving them.
   
   
