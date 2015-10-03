@@ -218,12 +218,16 @@ Students will identify features of a scatterplot to gain an understanding that f
  
 
 Common Core Standards & Mathematical Practices:
-  A-
+  F-IF4 For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.
+  MP3 - Construct viable arguments and critique the reasoning of others.
+  MP6 - Attend to precision.
   
 // ** __Lesson 2 Resources & Materials__** //
   * Friends & Family Graph (from lesson 1)
-  * Student Handout 1: Analyzing Scatter Plots 
+  * Student Handouts 1-3: Analyzing Scatter Plots 
   * Student Math Journal
+  * Student Handout 4: CDC Growth Reference Data for boys, ages 2-20
+  * Student Handout 5: CDC Growth Reference Data for girls, ages 2-20
 
  
 ==== Step 14 (Day 4) - Implement Unit 2 - Lesson 3: Rate of Change in the World of Data====
