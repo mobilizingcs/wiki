@@ -194,7 +194,7 @@ DAY 2 - Students will manually collect their height data and for others in their
  
 
 Common Core Standards & Mathematical Practices:
-  F.IF.7 Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.
+  F-IF-7 Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.
   MP2 - Reason abstractly and quantitatively.
   MP3 - Construct viable arguments and critique the reasoning of others.
 
