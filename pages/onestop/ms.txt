@@ -251,7 +251,8 @@ Common Core Standards & Mathematical Practices:
 Objective: Students upload and use the Mobilize Height Campaign to collect data about their height and arm span to analyze the association of these two data sets. Students will investigate the idea of Leonardo's drawings of the Vitruvian Man. 
 
 Common Core Standards & Mathematical Practices:
-  NQ
+  F-IF7 Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.
+  MP5 - Use appropriate tools strategically.
 
 // ** __Lesson 4 Resources & Materials__** //
   * LCD Projector
