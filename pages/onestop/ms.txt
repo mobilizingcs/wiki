@@ -267,7 +267,10 @@ Common Core Standards & Mathematical Practices:
 Objective: Students will gain more experience using the Plot App and the Dashboard to analyze and interpret data. They will explore and question their perception of a healthy snack using the nutrition facts in their data.
 
 Common Core Standards & Mathematical Practices:
-  NQ
+  F-BF1 Write a function that describes a relationship between two quantities.
+   a. Determine an explicit expression, a recursive process, or steps for calculation from a context.
+   b. Combine standard function types using arithmetic operations. For example, build a function that models the temperature of a cooling body by adding a constant functions to a decaying exponential, and relate these functions to the model.
+  MP7 - Look for and make use of structure.
 
 // ** __Lesson 5 Resources & Materials__** //
   * LCD Projector
