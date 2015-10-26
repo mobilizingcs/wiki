@@ -282,7 +282,9 @@ Common Core Standards & Mathematical Practices:
 Objective: Students will interpret graphical representations of health data, analyze graphical patterns, draw conclusions, and generate arguments regarding the observed patterns.
 
 Common Core Standards & Mathematical Practices:
-  NQ
+  F-BF1 Write a function that describes a relationship between two quantities.
+  F-IF4 For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship.
+  MP3 Construct viable arguments and critique the reasoning of others.
 
 // ** __Lesson 6 Resources & Materials__** //
   * LCD Projector
