@@ -5,7 +5,7 @@ This wiki provides a single page with a step-by-step process (and all necessary 
 Are you having trouble seeing your class data on the Dashboard? Need additional classroom or technical support? Please visit our FAQ site for answers to [[https://wiki.mobilizingcs.org/faq|common questions]] or visit [[https://wiki.mobilizingcs.org/home#available_video_tutorials|Home]]and watch the Video Tutorials for the Web FrontEnd.
 
 
-==== Step 1 (Weeks+ before staring unit) - Handling Student/Parent Consent Forms ====
+==== Step 1 (Weeks+ before starting unit) - Handling Student/Parent Consent Forms ====
   *  **Teachers implementing in multiple class periods should select ONE class period as their "evaluation class"** or class that completes consents and questionnaires.  Please try to select a "typical class" (i.e., not honors class), preferably Biology.
   * Please give students the Mobilize Consent Form Packet (student consent form - Blue, parent consent form - Yellow or Green) to complete. 
   * The consent forms are needed to help us measure and improve the effectiveness of the Mobilize units.  We need to have copies of __both__ the student and parent consent form from a particular student to include him/her in our study.
