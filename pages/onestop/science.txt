@@ -1,8 +1,14 @@
 ===== Science - Mobilize ONE-STOP =====
 
-This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
+This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. Please note, updated curriculum will be posted 1/1/2016 to reflect the current California Draft Framework released in November.  All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
 
 Are you having trouble seeing your class data on the Dashboard? Need additional classroom or technical support? Please visit our FAQ site for answers to [[https://wiki.mobilizingcs.org/faq|common questions]] or visit [[https://wiki.mobilizingcs.org/home#available_video_tutorials|Home]]and watch the Video Tutorials for the Web FrontEnd.
+
+**Want to support Mobilize Goals before the units implementation?**
+  - Incorporate the data cycle into current units.
+  - Utilize strategies to help students make sense of graphics, data tables, and visualizations. We used the OPTIC strategy from the AP College Board and ICEE in the unit. 
+  - Structure activities to allow for student-to-student accountable talk. Talk Moves created by Sara Michaels is an excellent place to start.
+  - Provide students with multiple opportunities to engage in the Science and Engineering Practices that are woven into content development, such as argumentation and modeling. Check out [[http://ambitiousscienceteaching.org|Ambitous Science Teaching Site]] 
 
 
 ==== Step 1 (Weeks+ before starting unit) - Handling Student/Parent Consent Forms ====
