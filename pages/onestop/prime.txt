@@ -2,7 +2,7 @@
 This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. 
 
 ----
-This content is currently in the process of being updated for the ECS 2013-2014 Mobilize Prime deployment, so check back frequently for new information!
+
 ----
 
 
