@@ -10,9 +10,8 @@ Download the video [[https://www.dropbox.com/s/8m3df1xguh062y4/Target%20Story.mp
 
 ====Download the IDS Curriculum====
 
-* [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Introduction to Data Science v 2.0, Units 1, 2, & 3]]
+* [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Introduction to Data Science v 2.0, Units 1-4]]
 
-* Introduction to Data Science v 2.0 Unit 4 is currently being revised.
 
 ====Loading RStudio® Labs====
 Click [[https://wiki.mobilizingcs.org/rstudio/load_labs | HERE.]] to learn how to load the labs.
