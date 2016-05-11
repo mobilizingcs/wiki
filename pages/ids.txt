@@ -6,11 +6,11 @@ A brief video discussing data collection practices by large corporations.
 
 Watch the video [[http://youtu.be/XvSA-6BJkx4|HERE.]]
 
-Download the video [[https://www.dropbox.com/s/8m3df1xguh062y4/Target%20Story.mp4?dl=0| HERE.]]
+Download the video [[https://dropbox.mobilizingcs.org/s/f4qjlkC3iWwdxVg?path=%2FMZ%20Curriculum_IDS%2FIDS%20Curriculum%20v.%202.0%2F2_LESSON%20MATERIALS%20%26%20RESOURCES%20v%202.0%2FLMRs_Unit%201| HERE.]]
 
 ====Download the IDS Curriculum====
 
-* [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Introduction to Data Science v 2.0]]
+* [[https://dropbox.mobilizingcs.org/s/f4qjlkC3iWwdxVg?path=%2FMZ%20Curriculum_IDS%2FIDS%20Curriculum%20v.%202.0|Introduction to Data Science v 2.0]]
 
 
 ====Loading RStudio® Labs====
@@ -21,10 +21,10 @@ Select presentation materials from the 2015-16 teacher trainings can be found in
 
 
 ====Consent Forms====
-Consent forms for the 2015-16 academic year can be found in the Mobilize Curriculum Directory at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]].  Just click on the folder marked "Consent Forms" to find current versions of Teacher, Student, and Parent consent forms. Parent consent forms are available in English and Spanish.
+Consent forms for the 2015-16 academic year can be found in the Mobilize Curriculum Directory at [[https://dropbox.mobilizingcs.org/s/f4qjlkC3iWwdxVg|Mobilize Curriculum Directory]].  Just click on the folder marked "Consent Forms" to find current versions of Teacher, Student, and Parent consent forms. Parent consent forms are available in English and Spanish.
 
 ====LOCUS Administration & Uploading Files to Documents Tool====
-Instructions for administering the LOCUS and uploading files to the Documents Tool can be found in the IDS Curriculum folder at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. 
+Instructions for administering the LOCUS and uploading files to the Documents Tool can be found in the IDS Curriculum folder at [[https://dropbox.mobilizingcs.org/s/f4qjlkC3iWwdxVg|Mobilize Curriculum Directory]]. 
 
 ====IDS FAQs====
 
