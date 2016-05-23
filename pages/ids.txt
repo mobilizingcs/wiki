@@ -10,7 +10,7 @@ Download the video [[https://dropbox.mobilizingcs.org/s/f4qjlkC3iWwdxVg?path=%2F
 
 ====Download the IDS Curriculum====
 
-* [[https://dropbox.mobilizingcs.org/s/f4qjlkC3iWwdxVg?path=%2FMZ%20Curriculum_IDS%2FIDS%20Curriculum%20v.%202.0|Introduction to Data Science v 2.0]]
+* [[https://dropbox.mobilizingcs.org/index.php/s/QDGb0WaGTsVtMx0|Introduction to Data Science v 2.0]]
 
 
 ====Loading RStudio® Labs====
