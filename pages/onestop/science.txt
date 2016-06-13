@@ -1,6 +1,6 @@
 ===== Science - Mobilize ONE-STOP =====
 
-This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]. Please note, updated and final curriculum will be posted 4/11/2016. All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
+This wiki provides a single page with a step-by-step process (and all necessary links) required to participate in the Mobilize unit. The relevant curriculum can be found at [[https://ucla.box.com/v/mobilize|Mobilize Curriculum Directory]]. Please note, updated and final curriculum will be posted 4/11/2016. All URLs related to the Mobilize tools and applications are listed on [[https://wiki.mobilizingcs.org/urls]].
 
 Are you having trouble seeing your class data on the Dashboard? Need additional classroom or technical support? Please visit our FAQ site for answers to [[https://wiki.mobilizingcs.org/faq|common questions]] or visit [[https://wiki.mobilizingcs.org/home#available_video_tutorials|Home]]and watch the Video Tutorials for the Web FrontEnd.
 
@@ -17,7 +17,7 @@ Are you having trouble seeing your class data on the Dashboard? Need additional 
   * The consent forms are needed to help us gather data to measure and improve the effectiveness of the Mobilize units.  We need to have copies of __both__ the student and parent consent form from a particular student to include him/her in our study.
    * Upon returning the consent forms, please provide the CRESST team with a copy of your roster so that they can track which students did/did not sign consents.  
 
- * Student, and Teacher Consent forms for the 2015-16 academic year can be found in the "Consent Forms" folder here: [[https://dropbox.mobilizingcs.org/public.php?service=files&t=c216f15e36922da303c3576aa561aa9a|Mobilize Curriculum Directory]]
+ * Student, and Teacher Consent forms for the 2015-16 academic year can be found in the "Consent Forms" folder here: [[https://ucla.box.com/v/mobilize|Mobilize Curriculum Directory]]
 
   * Complete Lesson 0: Where does my trash go? This lesson allows students to design a model of a sanitary landfill. Ideally, this model is created a minimum of two weeks before the first lesson. Students will also beging collecting data before the unit on their smart phones. This does not have to happen the day after Lesson 0. The goal is to increase the data collection window so that there are large sets for classes to explore.  
 
