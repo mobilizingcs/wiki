@@ -1,12 +1,6 @@
 ===== Mobilize Support Contact =====
 If you are having trouble using the Mobilize Web frontend, the Mobilize Android application or RStudio please contact the Mobilize Support team using the information provided below.
 
-support@mobilizingcs.org
-
-or leave a voicemail here:
-
-<html><object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" />
-<param name="wmode" value="transparent" />
-<param name="FlashVars" value="id=a8d35a06aa007f2d1fe47a49a09769928e03ff4a&amp;style=0" /></object></html>
+help@mobilizingcs.org
 
 Thank you!
