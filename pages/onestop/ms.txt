@@ -10,7 +10,7 @@ All URLs related to the Mobilize tools and applications are listed on [[https://
   * Please give students the Mobilize Consent Form Packet (student consent form - Blue, parent consent form - Yellow or Green) to complete. The consent forms are needed to  help us measure and improve the effectiveness of the Mobilize units. Bring back completed forms to the **September PD** (It is OK to bring in any additional signed forms to the October PD).
   * Upon returning the consent forms, please provide the CRESST team with a copy of your roster so that they can track which students did/did not sign consents.
   * We need to have copies of __both__ the student and parent consent form for a particular student to include him/her in our study.
-  * Please feel free to contact us at support@mobilizingcs.org with any questions or concerns.
+  * Please feel free to contact us at help@mobilizingcs.org with any questions or concerns.
   * THANK YOU!
 
 // ** __Consent Forms:__** //
@@ -26,7 +26,7 @@ Consent forms for the 2015-16 academic year can be found in the Mobilize Curricu
   * {{:wiki:document-edit.png?nolink&20|}} Teachers administer the student pre-questionnaire (or "Pre-Q") BEFORE beginning the unit. You will receive a packet of pre-questionnaires and administration directions at the August 29th training.
   * The Pre-Q includes a series of algebra and data-related tasks and should take approximately 45 minutes (1 class period including directions, passing out Pre-Q's, etc.) to complete.   
   * Teachers will also be asked to complete a short pre-survey before starting the unit.  You will receive a link via email. 
-  * Contact Debbie La Torre Matrundola at 310.206.1385 or support@mobilizingcs.org  if you have any questions or concerns. 
+  * Contact Debbie La Torre Matrundola at 310.206.1385 or help@mobilizingcs.org  if you have any questions or concerns. 
 
 // ** __Target Story__** //
 When your students have completed the "Pre-Q" you will have time to present the Target Story; a brief video discussing data collection practices by large corporations. (Time: 4.5 minutes) When the video ends, ask students, "How did Target know she was pregnant?" Discuss first as teams and have each team share out.
